@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://fedex-shipping-agency-4c38f605.zappy5.app
+https://example.com
 Partner with a leader among international shipping and logistics companies for reliable freight solutions. Get seamless global delivery, real-time tracking, and dedicated support. Start shipping now.
 
 ### Services
-https://fedex-shipping-agency-4c38f605.zappy5.app/services
+https://example.com/services
 Explore our full suite of logistics services, from express air freight to ocean cargo and supply chain management. Tailored for efficiency and reliability. Discover your shipping advantage today.
 
 ### About
-https://fedex-shipping-agency-4c38f605.zappy5.app/about
+https://example.com/about
 Discover the team and values driving one of the most trusted international shipping and logistics companies. Built on integrity, speed, and a commitment to your business growth. Learn our story.
 
 ### Contact
-https://fedex-shipping-agency-4c38f605.zappy5.app/contact
+https://example.com/contact
 Ready to move your business forward? Contact our logistics experts for a custom quote, rate inquiry, or support request. Experience the integrity logistics &amp; shipping you deserve. Reach out now.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fedex-shipping-agency-4c38f605.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fedex-shipping-agency-4c38f605.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fedex-shipping-agency-4c38f605.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://fedex-shipping-agency-4c38f605.zappy5.app/contact
-- Endpoint: https://fedex-shipping-agency-4c38f605.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Logistics & Shipping
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fedex-shipping-agency-4c38f605.zappy5.app/sitemap.xml
-- Robots: https://fedex-shipping-agency-4c38f605.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fedex-shipping-agency-4c38f605.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
