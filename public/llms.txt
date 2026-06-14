@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: jacksonmikeshippingagency@gmail.com
+- Phone: +1(213) 986-8039
+- Phone (tel): tel:+12139868039
+- Address: USA 
 
 ### Contact form
 - URL: https://example.com/contact
